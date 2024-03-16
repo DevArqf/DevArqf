@@ -10,7 +10,8 @@ I love the entire process of developing creative discord bots. I love the challe
 
 ### 🤝 Connect with me:
 
-<a href="https://discord.com/users/899385550585364481"><img align="left" src="https://raw.githubusercontent.com/DevArqf/DevArqf/main/discord-icon-svgrepo-com.svg" alt="Malik | Discord" width="21px"/></a>
+<a href="https://discord.com/users/899385550585364481"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Malik | Discord" width="21px"/></a>
+<a href="https://discord.com/users/899385550585364481"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Malik | Stackoverflow" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -21,6 +22,9 @@ I love the entire process of developing creative discord bots. I love the challe
 ## 🌱 I'm currently learning
 
 - CSS and HTML 
+
+## 👯 I’m looking to collaborate on 
+- Discord Bots
 
 ## 💼 Technical Skills
 
