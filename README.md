@@ -34,3 +34,7 @@ I love the entire process of developing creative discord bots. I love the challe
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats
+
+[![Malik Github Stats](https://github-readme-stats.vercel.app/api?username=DevArqf)](https://github.com/DevArqf)
