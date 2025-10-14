@@ -22,7 +22,7 @@ Passionate Discord Bot Developer with a focus on creating innovative, multipurpo
 - 🌱 **Learning:** Machine Leaning & AI Systems & Python Automisation Tools
 - 👯 **Looking to Collaborate:** Discord Bots, Open Source Projects, Automation Tool Creation Projects
 - 💬 **Ask Me About:** Discord.js & Bot Development
-- 📫 **How to Reach Me:** Discord @ `DevArqf` or through GitHub issues
+- 📫 **How to Reach Me:** Discord @ `arqf` or through GitHub issues
 
 ## 🛠️ Technology Stack
 
