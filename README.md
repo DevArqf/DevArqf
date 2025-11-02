@@ -54,7 +54,6 @@ Always happy to talk bots, automation, or open source.
 If you’ve got a cool idea or just want to chat tech — I’m in!
 
 * 💼 **Discord:** `arqf`
-* 🌐 **GitHub:** [DevArqf](https://github.com/DevArqf)
 
 ---
 
