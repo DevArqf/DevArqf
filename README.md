@@ -51,7 +51,7 @@ Lately, I’ve been exploring **Machine Learning & AI**, mixing that with my bot
 ## 🤝 Let’s Connect
 
 Always happy to talk bots, automation, or open source.
-If you’ve got a cool idea or just want to chat tech — I’m in!
+If you’ve got a cool idea or just want to chat tech, I’m in!
 
 * 💼 **Discord:** [arqf](https://discord.com/users/899385550585364481)
 
