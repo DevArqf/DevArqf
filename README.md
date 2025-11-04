@@ -22,7 +22,7 @@ Lately, I’ve been exploring **Machine Learning & AI**, mixing that with my bot
 * 🔭 **Current project:** [VoiceGuard](https://github.com/DevArqf/VoiceGuard) — voice authentication using OpenAI ChatGPT & Whisper APIs
 * 🌱 **Learning:** AI, ML, and advanced automation in Python
 * 💬 **Ask me about:** Discord.js, Node.js, or API-based automations
-* 📫 **Reach me:** Discord @ `arqf`
+* 📫 **Reach me:** Discord @ [arqf](https://discord.com/users/899385550585364481)
 
 ---
 
