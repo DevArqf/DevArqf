@@ -19,7 +19,6 @@ I love crafting bots that do the heavy lifting from custom commands and verifica
 
 Lately, I’ve been exploring **Machine Learning & AI**, mixing that with my bot development to create more interactive and intelligent experiences.
 
-* 🔭 **Current project:** [VoiceGuard](https://github.com/DevArqf/VoiceGuard) — voice authentication using OpenAI ChatGPT & Whisper APIs
 * 🌱 **Learning:** AI, ML, and advanced automation in Python
 * 💬 **Ask me about:** Discord.js, Node.js, or API-based automations
 * 📫 **Reach me:** Discord @ [arqf](https://discord.com/users/899385550585364481)
