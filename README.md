@@ -1,65 +1,67 @@
 <div align="center">
 
-# 👋 Hey, I'm Malik
+# Yo, I'm Malik 👋
 
-### Discord Bot Developer | ML & AI Learner | Open Source Enthusiast
+Full-stack dev who loves building clean web apps, smart Discord bots, and playing around with AI. Currently having way too much fun making things that look good and actually work.
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/899385550585364481)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevArqf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devarqf.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://devarqf.github.io)
+[![Personal Site](https://img.shields.io/badge/Site-malikjohnson.info-FF6F61?style=for-the-badge&logo=react&logoColor=white)](https://malikjohnson.info)
+[![Discord](https://img.shields.io/badge/Discord-arqf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/899385550585364481)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevArqf\&color=brightgreen\&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/DevArqf?style=social)
-
-</div>
-
-## 🚀 About Me
-
-Hey there! I’m Malik, I build **Discord bots and automation tools** that make servers run smoother, smarter, and more fun.
-I love crafting bots that do the heavy lifting from custom commands and verification systems to full-on integration with APIs and trading tools.
-
-Lately, I’ve been exploring **Machine Learning & AI**, mixing that with my bot development to create more interactive and intelligent experiences.
-
-* 🌱 **Learning:** AI, ML, and advanced automation in Python
-* 💬 **Ask me about:** Discord.js, Node.js, or API-based automations
-* 📫 **Reach me:** Discord @ [arqf](https://discord.com/users/899385550585364481)
-
----
-
-## 🧰 Tech I Use
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DevArqf\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://komarev.com/ghpvc/?username=DevArqf&color=brightgreen&style=flat-square)
+![](https://img.shields.io/github/followers/DevArqf?style=social)
 
 </div>
 
----
+## What I'm About Right Now
 
-## 🤝 Let’s Connect
+I build stuff that goes from idea to live in days, not months. Lately I've been deep into React ecosystems, Next.js, modern backend with Node/Python, and sprinkling some AI magic whenever it makes sense. Still got a soft spot for Discord bots though, they were my first love ❤️
 
-Always happy to talk bots, automation, or open source.
-If you’ve got a cool idea or just want to chat tech, I’m in!
-
-* 💼 **Discord:** [arqf](https://discord.com/users/899385550585364481)
-
----
+## Tools & Tech I Live In
 
 <div align="center">
 
-*"Code is like humor — when you have to explain it, it’s bad."* – Cory House
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://sqlite.org/)
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
+
+## Projects I'm Proud Of
+
+**Personal Portfolio** → https://devarqf.github.io (the one you're probably coming from 😏)  
+**MalikJohnson.info** → https://malikjohnson.info (my clean, minimalist personal site)  
+
+[DeBugBuddy](https://github.com/DevArqf/DeBugBuddy) – "Your terminal's debugging companion - instant error explanations, no StackOverflow required."  
+[Cadia Bot](https://github.com/DevArqf/Cadia-Bot) - Introducing Cadia Bot! It's a Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
+[Discobase](https://github.com/DevArqf/create-discobase) - Easily create and manage your Discord bot with our powerful toolkit! 🚀  
+[API Header Spoofer](https://github.com/DevArqf/API-Header-Spoofer) - Practical examples of how header spoofing works. Shows you the tricks scrapers use like changing user agents and mimicking human behavior. Code works in browser console or Python. Built this while learning about bot detection.  
+[Molek Syntez Solitaire Solver](https://github.com/DevArqf/Molek-Syntez-Solitaire-Solver) - A Python-based AI solver for the custom solitaire minigame from Zachtronics' "Molek-Syntez". This project implements a breadth-first search algorithm with constraint satisfaction to find optimal solutions for complex card-stacking puzzles.  
+[FR4 Leaking Tool](https://github.com/DevArqf/FR4-Leaking-Tool) - Discord bot and GUI tool for monitoring Fun Run 4 updates and managing configuration files  
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=DevArqf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## Let's Talk
+
+Always down to chat code, collaborate on something cool, or just geek out about the latest tech. Hit me up anywhere:
+
+Discord → [@arqf](https://discord.com/users/899385550585364481)  
+LinkedIn → [Malik Johnson](https://www.linkedin.com/in/malik-johnson-597700397)  
+Portfolio → https://devarqf.github.io  
+Site → https://malikjohnson.info
+
+<div align="center">
+
+Made with ☕ and too many late nights
+
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
