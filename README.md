@@ -40,7 +40,6 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 [Discobase](https://github.com/DevArqf/create-discobase) - Easily create and manage your Discord bot with our powerful toolkit! 🚀  
 [API Header Spoofer](https://github.com/DevArqf/API-Header-Spoofer) - Practical examples of how header spoofing works. Shows you the tricks scrapers use like changing user agents and mimicking human behavior. Code works in browser console or Python. Built this while learning about bot detection.  
 [Molek Syntez Solitaire Solver](https://github.com/DevArqf/Molek-Syntez-Solitaire-Solver) - A Python-based AI solver for the custom solitaire minigame from Zachtronics' "Molek-Syntez". This project implements a breadth-first search algorithm with constraint satisfaction to find optimal solutions for complex card-stacking puzzles.  
-[FR4 Leaking Tool](https://github.com/DevArqf/FR4-Leaking-Tool) - Discord bot and GUI tool for monitoring Fun Run 4 updates and managing configuration files  
 
 <div align="center">
 
