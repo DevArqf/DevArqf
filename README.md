@@ -8,9 +8,6 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
 [![Personal Site](https://img.shields.io/badge/Site-malikjohnson.info-FF6F61?style=for-the-badge&logo=react&logoColor=white)](https://malikjohnson.info)
 [![Discord](https://img.shields.io/badge/Discord-arqf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/899385550585364481)
 
-![](https://komarev.com/ghpvc/?username=DevArqf&color=brightgreen&style=flat-square)
-![](https://img.shields.io/github/followers/DevArqf?style=social)
-
 </div>
 
 ## What I'm About Right Now
