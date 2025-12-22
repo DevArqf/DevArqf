@@ -51,12 +51,8 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 - [Molek Syntez Solitaire Solver](https://github.com/DevArqf/Molek-Syntez-Solitaire-Solver) - A Python-based AI solver for the custom solitaire minigame from Zachtronics' "Molek-Syntez". This project implements a breadth-first search algorithm with constraint satisfaction to find optimal solutions for complex card-stacking puzzles.  
 - [Spoti-DL](https://github.com/DevArqf/Spoti-DL) - A modern desktop application for downloading Spotify playlists built with Electron and Python.  
 
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=DevArqf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ## Let's Talk
 
