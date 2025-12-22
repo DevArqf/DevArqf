@@ -41,9 +41,6 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 
 ## Projects I'm Proud Of
 
-**Personal Portfolio** → https://devarqf.github.io (the one you're probably coming from 😏)  
-**MalikJohnson.info** → https://malikjohnson.info (my clean, minimalist personal site)  
-
 - [DeBugBuddy](https://github.com/DevArqf/DeBugBuddy) – Your terminal's debugging companion - instant error explanations, no StackOverflow required.  
 - [Cadia Bot](https://github.com/DevArqf/Cadia-Bot) - A Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
 - [Jolt Python API](https://github.com/Jolt-Database/jolt-python-api) - A Python client for the Jolt in-memory messaging broker. This library provides direct access to the Jolt protocol over TCP, enabling efficient pub/sub communication without external dependencies.  
