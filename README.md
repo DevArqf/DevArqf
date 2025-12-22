@@ -17,18 +17,30 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
 
 I build stuff that goes from idea to live in days, not months. Lately I've been deep into React ecosystems, Next.js, modern backend with Node/Python, and sprinkling some AI magic whenever it makes sense. Still got a soft spot for Discord bots though, they were my first love ❤️
 
-## Tools & Tech I Live In
+## Tools & Tech
 
-<div align="center">
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://sqlite.org/)
-
-</div>
+<p align="center">
+  <!-- Languages & Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  
+  <!-- Package Managers -->
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white" alt="PyPI">
+  
+  <!-- Editors & IDEs -->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor"> <!-- Custom color; Cursor logo is typically black/white -->
+  
+  <!-- Terminals -->
+  <img src="https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white" alt="Warp">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+  
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white" alt="Claude"> <!-- Anthropic logo for Claude -->
+</p>
 
 ## Projects I'm Proud Of
 
