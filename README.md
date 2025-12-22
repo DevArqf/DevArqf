@@ -35,11 +35,12 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 **Personal Portfolio** → https://devarqf.github.io (the one you're probably coming from 😏)  
 **MalikJohnson.info** → https://malikjohnson.info (my clean, minimalist personal site)  
 
-[DeBugBuddy](https://github.com/DevArqf/DeBugBuddy) – "Your terminal's debugging companion - instant error explanations, no StackOverflow required."  
-[Cadia Bot](https://github.com/DevArqf/Cadia-Bot) - Introducing Cadia Bot! It's a Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
-[Discobase](https://github.com/DevArqf/create-discobase) - Easily create and manage your Discord bot with our powerful toolkit! 🚀  
-[API Header Spoofer](https://github.com/DevArqf/API-Header-Spoofer) - Practical examples of how header spoofing works. Shows you the tricks scrapers use like changing user agents and mimicking human behavior. Code works in browser console or Python. Built this while learning about bot detection.  
-[Molek Syntez Solitaire Solver](https://github.com/DevArqf/Molek-Syntez-Solitaire-Solver) - A Python-based AI solver for the custom solitaire minigame from Zachtronics' "Molek-Syntez". This project implements a breadth-first search algorithm with constraint satisfaction to find optimal solutions for complex card-stacking puzzles.  
+- [DeBugBuddy](https://github.com/DevArqf/DeBugBuddy) – Your terminal's debugging companion - instant error explanations, no StackOverflow required.  
+- [Cadia Bot](https://github.com/DevArqf/Cadia-Bot) - A Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
+- [Jolt Python API](https://github.com/Jolt-Database/jolt-python-api) - A Python client for the Jolt in-memory messaging broker. This library provides direct access to the Jolt protocol over TCP, enabling efficient pub/sub communication without external dependencies.  
+- [Jolt Javascript API](https://github.com/Jolt-Database/jolt-js-api) - A JavaScript and Node.js client. This package provides direct access to the Jolt protocol, offering a lightweight, dependency-free interface for building real-time distributed applications, internal services, and event-driven systems.  
+- [Molek Syntez Solitaire Solver](https://github.com/DevArqf/Molek-Syntez-Solitaire-Solver) - A Python-based AI solver for the custom solitaire minigame from Zachtronics' "Molek-Syntez". This project implements a breadth-first search algorithm with constraint satisfaction to find optimal solutions for complex card-stacking puzzles.  
+- [Spoti-DL](https://github.com/DevArqf/Spoti-DL) - A modern desktop application for downloading Spotify playlists built with Electron and Python.  
 
 <div align="center">
 
