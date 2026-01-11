@@ -1,0 +1,23 @@
+name: Update GitHub Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update activity in README
+        uses: jamesgeorge007/github-activity-readme@v0.3.0
+        with:
+          COMMIT_MESSAGE: "chore: update GitHub activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}

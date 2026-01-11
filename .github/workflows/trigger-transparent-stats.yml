@@ -1,0 +1,28 @@
+name: Trigger Transparent GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */6 * * *"
+
+jobs:
+  trigger-remote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch build in github-stats-transparent fork
+        env:
+          TARGET_OWNER: DevArqf
+          TARGET_REPO: github-stats-transparent
+          STATS_WORKFLOW: stats.yml
+          STATS_REF: main
+          GH_TOKEN: ${{ secrets.STATS_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Missing STATS_PAT secret with repo permissions." >&2
+            exit 1
+          fi
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            https://api.github.com/repos/${TARGET_OWNER}/${TARGET_REPO}/actions/workflows/${STATS_WORKFLOW}/dispatches \
+            -d "{\"ref\":\"${STATS_REF}\"}"
