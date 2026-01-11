@@ -5,8 +5,8 @@
 Full-stack dev who loves building clean web apps, smart Discord bots, and playing around with AI. Currently having way too much fun making things that look good and actually work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devarqf.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://devarqf.github.io)
-[![Personal Site](https://img.shields.io/badge/Site-malikjohnson.info-FF6F61?style=for-the-badge&logo=react&logoColor=white)](https://malikjohnson.info)
 [![Discord](https://img.shields.io/badge/Discord-arqf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/899385550585364481)
+---
 
 <p align="center">
   <!-- Languages & Web -->
@@ -60,17 +60,13 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ![](https://github-readme-stats.vercel.app/api?username=DevArqf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
----
-
 ### Activity & Transparent Stats
 
-<!--START_SECTION:activity-->
 1. 💪 Opened PR [#466](https://github.com//Wave-Play/robo.js/pull/466) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 2. ❌ Merged PR [#464](https://github.com//Wave-Play/robo.js/pull/464) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 3. 🗣 Commented on [#464](https://github.com//Wave-Play/robo.js/issues/464) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 4. 🗣 Commented on [#465](https://github.com//Wave-Play/robo.js/issues/465) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 5. ❌ Closed PR [#465](https://github.com//Wave-Play/robo.js/pull/465) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
-<!--END_SECTION:activity-->
 
 ![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg?cacheBust=1)
 ![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg?cacheBust=1)
@@ -82,4 +78,3 @@ Made with ☕ and too many late nights
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
