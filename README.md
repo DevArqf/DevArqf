@@ -61,13 +61,13 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ### Activity & Transparent Stats
-
+<!--START_SECTION:activity-->
 1. 💪 Opened PR [#466](https://github.com//Wave-Play/robo.js/pull/466) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 2. ❌ Merged PR [#464](https://github.com//Wave-Play/robo.js/pull/464) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 3. 🗣 Commented on [#464](https://github.com//Wave-Play/robo.js/issues/464) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 4. 🗣 Commented on [#465](https://github.com//Wave-Play/robo.js/issues/465) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 5. ❌ Closed PR [#465](https://github.com//Wave-Play/robo.js/pull/465) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
-
+<!--END_SECTION:activity-->
 ![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg?cacheBust=1)
 ![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg?cacheBust=1)
 
