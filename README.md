@@ -12,6 +12,17 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
   <!-- Languages & Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Sapphire_Framework-0C2033?logo=sapphire&logoColor=white" alt="Sapphire Framework">
+  <img src="https://img.shields.io/badge/WavePlay_(robo.js)-0F172A?logoColor=white" alt="WavePlay (robo.js)">
   
   <!-- Package Managers -->
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
@@ -49,6 +60,15 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ![](https://github-readme-stats.vercel.app/api?username=DevArqf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
+
+### Activity & Transparent Stats
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg)
+
 <div align="center">
 
 Made with ☕ and too many late nights
@@ -56,3 +76,4 @@ Made with ☕ and too many late nights
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
