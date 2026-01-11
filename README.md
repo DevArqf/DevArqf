@@ -71,10 +71,12 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 5. ❌ Closed PR [#465](https://github.com//Wave-Play/robo.js/pull/465) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
 <!--END_SECTION:activity-->
 
-![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg)
+![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg?cacheBust=1)
+![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg?cacheBust=1)
 
 <div align="center">
+
+---
 
 Made with ☕ and too many late nights
 
