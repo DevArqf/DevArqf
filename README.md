@@ -60,6 +60,7 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ![](https://github-readme-stats.vercel.app/api?username=DevArqf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArqf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
+---
 
 ### Activity & Transparent Stats
 
@@ -75,8 +76,6 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg?cacheBust=1)
 
 <div align="center">
-
----
 
 Made with ☕ and too many late nights
 
