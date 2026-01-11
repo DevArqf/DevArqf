@@ -13,12 +13,12 @@ jobs:
         env:
           TARGET_OWNER: DevArqf
           TARGET_REPO: github-stats-transparent
-          STATS_WORKFLOW: stats.yml
+          STATS_WORKFLOW: main.yml
           STATS_REF: main
-          GH_TOKEN: ${{ secrets.STATS_PAT }}
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
-            echo "Missing STATS_PAT secret with repo permissions." >&2
+            echo "Missing ACCESS_TOKEN secret with repo permissions." >&2
             exit 1
           fi
           curl -X POST \
