@@ -62,11 +62,11 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 
 ### Activity & Transparent Stats
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#466](https://github.com//Wave-Play/robo.js/pull/466) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
-2. ❌ Merged PR [#7](https://github.com//DevArqf/DeBugBuddy/pull/7) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
-3. 💪 Opened PR [#7](https://github.com//DevArqf/DeBugBuddy/pull/7) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
-4. 💪 Opened PR [#466](https://github.com//Wave-Play/robo.js/pull/466) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
-5. ❌ Merged PR [#464](https://github.com//Wave-Play/robo.js/pull/464) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
+1. ❌ Merged PR [#8](https://github.com//DevArqf/DeBugBuddy/pull/8) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+2. 💪 Opened PR [#8](https://github.com//DevArqf/DeBugBuddy/pull/8) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+3. ❌ Merged PR [#466](https://github.com//Wave-Play/robo.js/pull/466) in [Wave-Play/robo.js](https://github.com//Wave-Play/robo.js)
+4. ❌ Merged PR [#7](https://github.com//DevArqf/DeBugBuddy/pull/7) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+5. 💪 Opened PR [#7](https://github.com//DevArqf/DeBugBuddy/pull/7) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
 <!--END_SECTION:activity-->
 ![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg?cacheBust=1)
 ![Most Used Languages](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/languages.svg?cacheBust=1)
