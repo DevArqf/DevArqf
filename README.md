@@ -21,8 +21,6 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Sapphire_Framework-0C2033?logo=sapphire&logoColor=white" alt="Sapphire Framework">
-  <img src="https://img.shields.io/badge/WavePlay_(robo.js)-0F172A?logoColor=white" alt="WavePlay (robo.js)">
   
   <!-- Package Managers -->
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
@@ -31,6 +29,7 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
   <!-- Editors & IDEs -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor"> <!-- Custom color; Cursor logo is typically black/white -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   
   <!-- Terminals -->
   <img src="https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white" alt="Warp">
