@@ -60,10 +60,10 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 
 ### Activity & Transparent Stats
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#3](https://github.com//Aarav2709/FR2-Reborn/pull/3) in [Aarav2709/FR2-Reborn](https://github.com//Aarav2709/FR2-Reborn)
-2. ❌ Unassigned PR [#3](https://github.com//Aarav2709/FR2-Reborn/pull/3) in [Aarav2709/FR2-Reborn](https://github.com//Aarav2709/FR2-Reborn)
-3. ❌ Unassigned PR [#3](https://github.com//Aarav2709/FR2-Reborn/pull/3) in [Aarav2709/FR2-Reborn](https://github.com//Aarav2709/FR2-Reborn)
-4. 🗣 Commented on [#3](https://github.com//Aarav2709/FR2-Reborn/issues/3) in [Aarav2709/FR2-Reborn](https://github.com//Aarav2709/FR2-Reborn)
+1. ❌ Merged PR [#10](https://github.com//DevArqf/DeBugBuddy/pull/10) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+2. 💪 Opened PR [#10](https://github.com//DevArqf/DeBugBuddy/pull/10) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+3. ❌ Merged PR [#9](https://github.com//DevArqf/DeBugBuddy/pull/9) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
+4. 💪 Opened PR [#9](https://github.com//DevArqf/DeBugBuddy/pull/9) in [DevArqf/DeBugBuddy](https://github.com//DevArqf/DeBugBuddy)
 5. ❌ Assigned PR [#3](https://github.com//Aarav2709/FR2-Reborn/pull/3) in [Aarav2709/FR2-Reborn](https://github.com//Aarav2709/FR2-Reborn)
 <!--END_SECTION:activity-->
 ![GitHub Stats Overview](https://raw.githubusercontent.com/DevArqf/github-stats-transparent/output/generated/overview.svg?cacheBust=1)
