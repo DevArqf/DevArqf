@@ -2,11 +2,10 @@
 
 # Yo, I'm Malik 👋
 
-Full-stack dev who loves building clean web apps, smart Discord bots, and playing around with AI. Currently having way too much fun making things that look good and actually work.
+Full-stack dev who loves building minimalistic and elegant web apps, smart Discord bots, and playing around with AI & ML. Currently having way too much fun making things that look good and actually work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devarqf.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://devarqf.github.io)
 [![Discord](https://img.shields.io/badge/Discord-arqf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/899385550585364481)
----
 
 <p align="center">
   <!-- Languages & Web -->
@@ -30,7 +29,7 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
   
   <!-- Editors & IDEs -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor"> <!-- Custom color; Cursor logo is typically black/white -->
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   
   <!-- Terminals -->
@@ -40,7 +39,7 @@ Full-stack dev who loves building clean web apps, smart Discord bots, and playin
   
   <!-- AI Tools -->
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white" alt="Claude"> <!-- Anthropic logo for Claude -->
+  <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white" alt="Claude">
 </p>
 
 </div>
