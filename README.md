@@ -51,7 +51,7 @@ I build stuff that goes from idea to live in days, not months. Lately I've been 
 ## Projects I'm Proud Of
 
 - [DeBugBuddy](https://github.com/DevArqf/DeBugBuddy) – Your terminal's debugging companion - instant error explanations, no StackOverflow required.  
-- [Cadia Bot](https://github.com/DevArqf/Cadia-Bot) - A Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
+- [Cadia](https://github.com/DevArqf/Cadia-Bot) - A Discord Bot featuring a multipurpose design and a unique RPG-style system at its core.  
 
 ### Activity & Transparent Stats
 <!--START_SECTION:activity-->
