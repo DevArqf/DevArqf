@@ -4,7 +4,7 @@
 
 Full-stack dev who loves building minimalistic and elegant web apps, smart Discord bots, and playing around with AI & ML. Currently having way too much fun making things that look good and actually work.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devarqf.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://devarqf.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devarqf.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://devarqf.github.io/portfolio/)
 [![Discord](https://img.shields.io/badge/Discord-arqf-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/899385550585364481)
 
 <p align="center">
